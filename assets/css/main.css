@@ -1973,14 +1973,12 @@ input, select, textarea {
 
 		header.major p {
 			margin-top: 0;
-			letter-spacing: 10px;
-			font-size: 25px;
+			letter-spacing: 0.2em;
 
 		}
 
 		header.major h1 {
-			letter-spacing: 20px;
-			font-size: 60px;
+			letter-spacing: 0.2em;
 
 		}
 
