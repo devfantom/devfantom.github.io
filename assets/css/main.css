@@ -2720,6 +2720,20 @@ input, select, textarea {
 			opacity: 0.5;
 		}
 
+		.fcc-btn {
+  		background-color: rgba(86, 79, 82, 0.5);
+  		border-radius: 50px;
+		box-shadow: none;
+		color: #ffffff !important;
+  		padding: 15px 25px;
+		}
+
+		.fcc-btn:hover {
+  		background-color: rgba(23, 23, 23, 0.8);
+  		color: #ffffff !important;;
+  		border-radius: 50px;
+		}
+
 /* Main BG */
 
 	.main-bg {
